@@ -4,7 +4,7 @@
 {
     "name": "Membership data in CRM",
     "summary": "Shows membership data in CRM",
-    "version": "19.0.1.0.0",
+    "version": "20.0.1.0.0",
     "category": "Membership",
     "author": "PyTech, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/vertical-association",
