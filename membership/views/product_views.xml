@@ -60,7 +60,8 @@
                             <field name="name" class="fw-bolder fs-5" />
                             <span class="badge rounded-pill ms-auto">
                                 <i
-                                    class="oi" data-icon="payments"
+                                    class="oi"
+                                    data-icon="payments"
                                     role="img"
                                     aria-label="Price"
                                     title="Price"
@@ -70,7 +71,8 @@
                         </div>
                         <div>
                             <i
-                                class="oi" data-icon="schedule"
+                                class="oi"
+                                data-icon="schedule"
                                 role="img"
                                 aria-label="Period"
                                 title="Period"
