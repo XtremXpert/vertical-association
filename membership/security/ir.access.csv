@@ -1,0 +1,5 @@
+id,name,model_id,group_id/id,operation,domain
+access_membership_membership_line_partner_manager,membership.membership_line partner_manager,membership.membership_line,base.group_partner_manager,crud,
+access_membership_membership_line_employee,membership.membership_line,membership.membership_line,base.group_user,r,
+access_report_membership,report.membership,report.membership,base.group_partner_manager,r,
+access_membership_invoice,access.membership.invoice,membership.invoice,account.group_account_invoice,cru,
